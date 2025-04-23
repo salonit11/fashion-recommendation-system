@@ -29,8 +29,8 @@ This project leverages **transfer learning** on the **ImageNet** dataset to buil
 ## 💡 How to Run
 1. Clone the repository:
    ```bash
-   git clone <repo-link>
-   cd fashion-recommendation
+   git clone https://github.com/salonit11/fashion-recommendation-system
+   cd fashion-recommendation-system
    ```
 2. Install dependencies:
    ```bash
